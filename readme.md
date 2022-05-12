@@ -3,6 +3,7 @@
 CRUD simples feito em PHP.
 
 ## Requisitos
+- Apache
 - PHP
 - MariaDB ou MySQL
 
