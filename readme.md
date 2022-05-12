@@ -6,6 +6,7 @@ Uso do PDO para conexão com o banco de dados:
 https://www.php.net/manual/pt_BR/intro.pdo.php
 
 ## Requisitos
+- Apache
 - PHP
 - MariaDB ou MySQL
 
