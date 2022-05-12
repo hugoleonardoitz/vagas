@@ -1,8 +1,13 @@
-#Sistema de Vagas
+# Sistema de Vagas
 
-CRUD feito em PHP
+CRUD simples feito em PHP.
 
-Recursos:
+## Requisitos
+- PHP
+- MariaDB ou MySQL
+
+
+## Recursos:
 - Cadastrar vaga
 - Deletar vaga
 - Atualizar vaga
