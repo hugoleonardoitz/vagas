@@ -1,4 +1,4 @@
-# Sistema de Vagas
+# Sistema de Vagas 🖥
 
 CRUD simples feito em PHP.
 
@@ -12,6 +12,7 @@ https://www.php.net/manual/pt_BR/intro.pdo.php
 
 
 ## Recursos:
+- Pesquisar vaga
 - Cadastrar vaga
 - Deletar vaga
 - Atualizar vaga
